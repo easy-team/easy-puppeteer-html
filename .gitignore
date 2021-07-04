@@ -15,10 +15,5 @@ tmp/
 _site
 logs
 .vscode
-config/buildConfig.json
-config/manifest.json
-app/view/*
-!app/view/layout.html
-!app/view/README.md
-!app/view/.gitkeep
-package-lock.json
+.nyc_output
+coverage
